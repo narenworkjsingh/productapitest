@@ -1,0 +1,19 @@
+{
+  "name": "cypressapitest",
+  "version": "1.0.0",
+  "description": "api test for all endpoints listed in product api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Narendra Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^13.7.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "tv4": "^1.3.0"
+  }
+}
